@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+iframe{
+    margin-top: 11.5rem;
+    margin-left: 22.5rem;
+}
+
+body{
+    background:linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url(https://bosnainfo.ba/wp-content/uploads/2022/05/lopta-fudbal-427x285.jpg);
+    background-position: center;
+    background-size: cover;
+}
